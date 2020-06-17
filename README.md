@@ -199,6 +199,7 @@ Consider submitting to [the deno.land/x](https://github.com/denoland/deno_websit
 - [Create interactive mail utility CLI Tool using Deno
 ](https://www.soubai.me/posts/create-interactive-mail-utility-cli-with-deno)
 - [Create your first News CLI app using Deno](https://medium.com/javascript-in-plain-english/creating-your-first-news-cli-app-using-deno-e1470398c627)
+- [Build a simple chat app with Deno and a WYSIWYG editor](https://www.tiny.cloud/blog/deno-app-build-chat-app-wysiwyg-html-editor/)
 
 ## Presentations
 
